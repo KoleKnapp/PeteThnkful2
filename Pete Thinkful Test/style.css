@@ -56,11 +56,17 @@ img
 
   width: 50%;
   height: auto;
+ max-width: 200px;
 }
 
 hr {
   border: 1px 
 }
+
+/* Footer */
+footer p {
+    text-align: center;
+  width: 100%;
 
 /* Add your solution below */
 
